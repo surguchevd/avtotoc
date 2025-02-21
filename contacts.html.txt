@@ -1,0 +1,3 @@
+<a href="https://t.me/ecocharge_bot" target="_blank" class="telegram-button">
+    <img src="telegram-icon.png" alt="Telegram"> Написать в Telegram
+</a>
